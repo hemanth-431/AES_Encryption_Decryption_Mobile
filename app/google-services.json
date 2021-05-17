@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579843398930",
+    "project_id": "webeinardemo",
+    "storage_bucket": "webeinardemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579843398930:android:e2cc0393570056e7c927cb",
+        "android_client_info": {
+          "package_name": "com.example.webeinardemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579843398930-2e0m1kj85llgbo34rtpnsanbib8dfcpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webeinardemo",
+            "certificate_hash": "d0b306b61e619bef4c39b44619c9469cae7e6d6d"
+          }
+        },
+        {
+          "client_id": "579843398930-vk2vcbvk6i3u5e4h6pf3on5hkqd2dqu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-SeZyYg5-bY0TvmZw1CYAf7jPtRZnrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579843398930-vk2vcbvk6i3u5e4h6pf3on5hkqd2dqu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
